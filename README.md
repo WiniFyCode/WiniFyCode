@@ -4,8 +4,8 @@
 - 🌱 Tôi đang học những gì có liên quan đến Android, java, flutter ...
 - 💞️ Sẽ rẩt vui, nếu được hợp tác với bạn
 - 📫 Hãy liên lạc với tôi qua: https://www.facebook.com/tt230510
-- 😄 Xưng hô: Tên, ông, fen, bro, gọi tôi bằng gì bạn muốn, nhưng đừng quá đà!!!
-- ⚡ Sự thật thú vị: Nhạt hơn nước lã
+- 🫂 Xưng hô: Tên, ông, fen, bro, gọi tôi bằng gì bạn muốn, nhưng đừng quá đà!!!
+- ⚡ Sự thật thú vị: Nhạt hơn nước lã.
 
 <!---
 WiniFyCode/WiniFyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
