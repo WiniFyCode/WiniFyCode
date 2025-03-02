@@ -100,10 +100,10 @@ thanh@dev:~$ whoami --detail --animation
 [Đang phân tích kỹ năng...] ⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏
 [Đã hoàn thành!] ✓
 
-🚀 Frontend Developer  | 🔥 Expertise: ⭐⭐⭐⭐☆ [▰▰▰▰▰] 100%
+🚀 Frontend Developer  | 🔥 Expertise: ⭐⭐⭐⭐☆ [▰▰▰▰▱] 80%
 🎨 UI/UX Enthusiast    | 🔥 Expertise: ⭐⭐⭐⭐☆ [▰▰▰▰▱] 80%
-📱 Mobile Developer    | 🔥 Expertise: ⭐⭐⭐☆☆ [▰▰▰▱▱] 60%
-🔧 Clean Code Lover    | 🔥 Expertise: ⭐⭐⭐☆☆ [▰▰▰▰▱] 80%
+📱 Mobile Developer    | 🔥 Expertise: ⭐⭐⭐☆☆  [▰▰▰▱▱] 60%
+🔧 Clean Code Lover    | 🔥 Expertise: ⭐⭐⭐☆☆  [▰▰▰▱▱] 60%
 
 [Thành tựu đang tải...] [░░░░░░░░░░]
 [Thành tựu đã tải xong!] [▓▓▓▓▓▓▓▓▓▓]
@@ -118,14 +118,14 @@ thanh@dev:~$ cat profile.json | syntax-highlight
   "name": "Trần Đình Thành",
   "age": 19,
   "location": "Vietnam",
-  "education": "IT Student - First Year",
+  "education": "IT Student - Second Year",
   "languages": ["Vietnamese", "English"],
   "interests": ["Web Development", "UI/UX Design", "Mobile Apps"],
   "currentProject": "KTT Store (React)",
-  "learning": ["React", "Node.js", "Flutter", "UI/UX"],
+  "learning": ["React", "Node.js", "Flutter", "UI/UX", "Android"],
   "favoriteEditor": "VS Code",
   "favoriteMeme": "It works on my machine",
-  "coffeePerDay": "Vô hạn",
+  "coffeePerDay": "∞",
   "debugMethod": "Console.log everywhere"
 }
 
@@ -217,7 +217,7 @@ thanh@dev:~$ contact --all --animation=true
 ┌─────────────┬──────────────────────────────────────────┐
 │ LinkedIn    │ https://www.linkedin.com/in/tranthanh23  │
 │ Facebook    │ https://www.facebook.com/tt230510/       │
-│ Email       │ =thanh23102005@gmail.com                 │
+│ Email       │ thanh23102005@gmail.com                  │
 │ GitHub      │ https://github.com/WiniFyCode            │
 └─────────────┴──────────────────────────────────────────┘
 
