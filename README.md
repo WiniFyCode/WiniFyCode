@@ -62,65 +62,29 @@
 [System] 🔐 Bảo mật: Mạnh | 🔌 Kết nối: Ổn định | 🔋 Pin: 98% | 📶 WiFi: 5G
 
 # Đang chạy chương trình chẩn đoán hệ thống... ⣷⣯⣟⡿⢿⣻⣽⣾
-thanh@dev:~$ sudo neofetch --fancy --color --animation=rainbow
-# ╭─────────────────────────────────────────────────────────╮
-# │  🌈 SUPER NEOFETCH v2.5.1 - TECHNO COLOR EDITION 🌈     │
-# ╰─────────────────────────────────────────────────────────╯
-# 
-# 🔄 Khởi tạo quét hệ thống... [▰▱▱▱▱▱▱▱▱▱] 10%
-# 🔍 Phân tích phần cứng... [▰▰▰▱▱▱▱▱▱▱] 30%
-# 💿 Quét phần mềm đã cài đặt... [▰▰▰▰▰▱▱▱▱▱] 50%
-# 🧠 Tải dữ liệu hệ thống... [▰▰▰▰▰▰▰▱▱▱] 70%
-# 🎨 Tạo ASCII art... [▰▰▰▰▰▰▰▰▱▱] 80%
-# ✨ Áp dụng hiệu ứng màu sắc... [▰▰▰▰▰▰▰▰▰▱] 90%
-# ✅ Hoàn thành! [▰▰▰▰▰▰▰▰▰▰] 100%
-# 
-# [NEOFETCH OUTPUT - RENDERED WITH 256 COLORS]
+thanh@dev:~$ neofetch --fancy --color
+# Đang tải thông tin hệ thống... [⣾⣽⣻⢿⡿⣟⣯⣷]
 
-                    .-/+oossssoo+/-.               🧑‍💻 thanh@dev
-                `:+ssssssssssssssssss+:`           ---------------
-              -+ssssssssssssssssssyyssss+-         🖥️ OS: Thanh-OS 3.14159 x86_64
-            .ossssssssssssssssssdMMMNysssso.       🏠 Host: CodeMaster Pro X 2024 Edition
-           /ssssssssssshdmmNNmmyNMMMMhssssss/      🔧 Kernel: 6.5.0-codeart (build #42069)
-          +ssssssssshmydMMMMMMMNddddyssssssss+     ⏱️ Uptime: 19 years, 3 months, 14 days
-         /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    📦 Packages: 1024 (frontend) 512 (backend)
-        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   🐚 Shell: code-bash 5.1.16 with AI extensions
-        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   🖌️ DE: ReactJS 18.5 Quantum Edition
-        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🪟 WM: Redux Hyperdrive + NextJS
-        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🎭 Theme: Radical-Dark Neon Ultra
-        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   💻 Terminal: thanh-term v4.2.0
-        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   🧠 CPU: CodeGen i9-12900K (32) @ 5.8GHz
-         /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    🎮 GPU: RTX 5090 Ti Developer Extreme 24GB
-          +sssssssssdmydMMMMMMMMddddyssssssss+     🧮 Memory: 64GB DDR5 @ 6400MHz
-           /ssssssssssshdmNNNNmyNMMMMhssssss/      💾 Disk: 4TB NVMe Gen5 SSD
-            .ossssssssssssssssssdMMMNysssso.       🖱️ Input: MX Master 9000 + CodeMaster KB
-              -+sssssssssssssssssyyyssss+-         🔌 Power: Fusion Reactor @ 1.21 GW
-                `:+ssssssssssssssssss+:`           🧰 IDE: VS Code Quantum AI Edition
-                    .-/+oossssoo+/-.               📝 Current Project: KTT Store Ultra
-
-# 
-# 📊 HIỆU NĂNG HỆ THỐNG:
-# ┌───────────────────────────────────────────────────────────┐
-# │ CPU Usage: [▰▰▰▰▱▱▱▱▱▱] 40% | Temp: 42°C 🥶       │
-# │ Memory:    [▰▰▰▱▱▱▱▱▱▱] 32% | 20.5/64GB           │
-# │ Disk:      [▰▱▱▱▱▱▱▱▱▱] 10% | 400GB/4TB           │
-# │ Network:   ↑ 42 Mbps    | ↓ 1.21 Gbps                     │
-# │ Battery:   [▰▰▰▰▰▰▰▰▰▱] 95% | 4h 20m remaining 🔋 │ 
-# └───────────────────────────────────────────────────────────┘
-# 
-# 🏆 HỆ THỐNG ƯU VIỆT:
-# ├─ React Performance Index: 98/100 🚀
-# ├─ Code Quality Score: A++ ✨
-# ├─ UI/UX Perfection Level: 95% 🎨
-# ├─ Coffee Consumption: 1.21 cups/hour ☕
-# └─ Bug Detection AI: Active (caught 42 bugs today) 🐛
-# 
-# 🔍 PHÁT HIỆN AI:
-# │ User 'thanh' được xác định là một Dev Frontend cực kỳ tài năng!
-# │ Khả năng viết code sạch: 95% (top 1% globally)
-# │ Khả năng debug: 92% (siêu nhân tìm lỗi)
-# │ Khả năng design UI/UX: 96% (nghệ sĩ số)
-# └ Kết luận: Một frontend developer tài năng hiếm có! 💎
+                    .-/+oossssoo+/-.               thanh@dev
+                `:+ssssssssssssssssss+:`           -----------
+              -+ssssssssssssssssssyyssss+-         OS: Thanh-OS 3.14159 x86_64
+            .ossssssssssssssssssdMMMNysssso.       Host: CodeMaster Pro X
+           /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.5.0-codeart
+          +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 19 years, 3 months
+         /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1024 (frontend)
+        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: code-bash 5.1.16
+        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   DE: ReactJS 18
+        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Redux
+        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme: Radical-Dark
+        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Terminal: thanh-term
+        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   CPU: CodeGen i9-12900K
+         /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    GPU: RTX 4090 Ti Developer
+          +sssssssssdmydMMMMMMMMddddyssssssss+     Memory: 32GB RAM
+           /ssssssssssshdmNNNNmyNMMMMhssssss/
+            .ossssssssssssssssssdMMMNysssso.
+              -+sssssssssssssssssyyyssss+-
+                `:+ssssssssssssssssss+:`
+                    .-/+oossssoo+/-.
 
 [Trích dẫn ngẫu nhiên] Đang tải... ██████████ 100%
 thanh@dev:~$ echo $MOTD
