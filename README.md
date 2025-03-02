@@ -141,12 +141,12 @@ Database     [🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 
 thanh@dev:~$ projects --list --format=table
 ┌────────────────────┬────────────────────────────────────┬───────────────────────────────────────────────────────────┐
-│ 🔥 PROJECT NAME    │ 📋 DESCRIPTION                     │ 🔗 LINKS                                                  │
+│ 🔥 PROJECT NAME    │ 📋 DESCRIPTION                    │ 🔗 LINKS                                                 │
 ├────────────────────┼────────────────────────────────────┼───────────────────────────────────────────────────────────┤
 │ KTT Store Android  │ Ứng dụng thương mại điện tử Android│ 🔗 https://github.com/WiniFyCode/KTTStore-Android        │
 ├────────────────────┼────────────────────────────────────┼───────────────────────────────────────────────────────────┤
 │ KTT Store React    │ Web thương mại điện tử             │ 🔗 https://github.com/WiniFyCode/KTTStore-React          │
-│                    │                                    │ 🌐 https://ktt-store-fe-ppa4.vercel.app/                  │
+│                    │                                    │ 🌐 https://ktt-store-fe-ppa4.vercel.app/                 │
 ├────────────────────┼────────────────────────────────────┼───────────────────────────────────────────────────────────┤
 │ KTT Store Flutter  │ Ứng dụng đa nền tảng               │ 🔗 https://github.com/WiniFyCode/KTTStore-Flutter        │
 └────────────────────┴────────────────────────────────────┴───────────────────────────────────────────────────────────┘
