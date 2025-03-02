@@ -355,7 +355,7 @@ thanh@dev:~$ exit --with-animation
           <a href="https://github.com/WiniFyCode/KTTStore-Android">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiniFyCode&repo=KTTStore-Android&theme=radical" alt="KTT Store Android" />
           </a>
-          <p><strong>Java, XML, Firebase</strong> - Ứng dụng thương mại điện tử cho Android</p>
+          <p><strong>Java, XML</strong> - Ứng dụng thương mại điện tử cho Android</p>
         </div>
       </td>
       <td width="50%">
@@ -378,7 +378,7 @@ thanh@dev:~$ exit --with-animation
           <a href="https://github.com/WiniFyCode/KTTStore-Flutter">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiniFyCode&repo=KTTStore-Flutter&theme=radical" alt="KTT Store Flutter" />
           </a>
-          <p><strong>Flutter, Dart, Firebase</strong> - Ứng dụng đa nền tảng</p>
+          <p><strong>Flutter, Dart</strong> - Ứng dụng đa nền tảng</p>
         </div>
       </td>
       <td width="50%">
