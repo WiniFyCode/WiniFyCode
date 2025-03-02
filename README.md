@@ -249,7 +249,7 @@ thanh@dev:~$ exit --with-animation
 
 <div align="center">
   <strong><i>"Biến ý tưởng thành hiện thực với mã nguồn tối ưu và giao diện xuất sắc"</i></strong>
-</div>a
+</div>
 
 <br />
 
