@@ -105,7 +105,7 @@ thanh@dev:~$ whoami --detail --animation
 📱 Mobile Developer    | 🔥 Expertise: ⭐⭐⭐☆☆  [▰▰▰▱▱] 60%
 🔧 Clean Code Lover    | 🔥 Expertise: ⭐⭐⭐☆☆  [▰▰▰▱▱] 60%
 
-[Thành tựu đang tải...] [░░░░░░░░░░]
+[Thành tựu đang tải...]  [░░░░░░░░░░]
 [Thành tựu đã tải xong!] [▓▓▓▓▓▓▓▓▓▓]
 🏆 Achievements: 15 completed projects | 🔄 Commits: 1,337 | 🍴 Forks: 42
 
@@ -248,8 +248,8 @@ thanh@dev:~$ exit --with-animation
 </p>
 
 <div align="center">
-  <strong><i>"Bringing UI/UX to life with clean and efficient code"</i></strong>
-</div>
+  <strong><i>"Biến ý tưởng thành hiện thực với mã nguồn tối ưu và giao diện xuất sắc"</i></strong>
+</div>a
 
 <br />
 
