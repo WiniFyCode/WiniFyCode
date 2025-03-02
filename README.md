@@ -13,7 +13,7 @@
 
 ## 📝 Về Tôi
 
-> ### 🚀 *"Bringing UI/UX to life with clean and efficient code"*
+> ### 🚀 _"Bringing UI/UX to life with clean and efficient code"_
 
 Xin chào! Tôi là **Trần Đình Thành**, sinh viên IT đam mê với lĩnh vực phát triển web. Tôi thích biến những thiết kế UI/UX phức tạp thành code sạch và hiệu quả, tạo ra những trải nghiệm người dùng tuyệt vời.
 
@@ -76,21 +76,31 @@ Xin chào! Tôi là **Trần Đình Thành**, sinh viên IT đam mê với lĩnh
 ## 🚀 Dự Án Nổi Bật
 
 <div align="center">
-  <a href="https://ktt-store-fe-ppa4.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranthanh23102005&repo=KTT-Store-FE&theme=radical" alt="KTT Store" />
+  <a href="https://github.com/WiniFyCode/KTTStore-Android">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiniFyCode&repo=KTTStore-Android&theme=radical" alt="KTT Store Android" />
   </a>
-  <!-- Bạn có thể thêm các dự án khác ở đây -->
+  <a href="https://github.com/WiniFyCode/KTTStore-React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiniFyCode&repo=KTTStore-React&theme=radical" alt="KTT Store React" />
+  </a>
+  <p>
+    <a href="https://ktt-store-fe-ppa4.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Preview-✨-brightgreen?style=for-the-badge&logo=vercel" />
+    </a>
+  </p>
+  <a href="https://github.com/WiniFyCode/KTTStore-Flutter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiniFyCode&repo=KTTStore-Flutter&theme=radical" alt="KTT Store Flutter" />
+  </a>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranthanh23102005&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthanh23102005&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=winifycode&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winifycode&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranthanh23102005&theme=radical&row=1&column=6" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=winifycode&theme=radical&row=1&column=6" alt="trophy" />
 </div>
 
 ## 📫 Kết Nối Với Tôi
@@ -115,4 +125,4 @@ Xin chào! Tôi là **Trần Đình Thành**, sinh viên IT đam mê với lĩnh
 
 <div align="center">
   <i>"Học không ngừng, sáng tạo không giới hạn"</i>
-</div> 
+</div>
