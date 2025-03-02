@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Clean+Code+Lover;Mobile+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Clean+Code+Lover;Mobile+Developer" alt="Typing SVG" /></a>
 </div>
 
 <!-- BADGES -->
@@ -28,30 +28,75 @@
 
 <br />
 
-<!-- TERMINAL UI - SIMPLE VERSION -->
+<!-- ENHANCED TERMINAL UI -->
 <div align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-1e1e1e?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/✨%20THANH--TERMINAL%20✨-1e1e1e?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 </div>
 
 ```bash
-root@thanhdev:~# ./welcome.sh
+# ╭─────────────────────────────────────────────────────────────────────────╮
+# │                      🔥 THANH-OS v3.14159 🔥                            │
+# │              💻 Chào mừng đến với ThanhTerminal Edition 💻              │
+# ╰─────────────────────────────────────────────────────────────────────────╯
 
- _________  ________  ________  ________      ___    ___ 
-|\___   ___\\   __  \|\   __  \|\   ___  \   |\  \  /  /|
-\|___ \  \_\ \  \|\  \ \  \|\  \ \  \\ \  \  \ \  \/  / /
-     \ \  \ \ \   _  _\ \   __  \ \  \\ \  \  \ \    / / 
-      \ \  \ \ \  \\  \\ \  \ \  \ \  \\ \  \  /     \/  
-       \ \__\ \ \__\\ _\\ \__\ \__\ \__\\ \__\/  /\   \  
-        \|__|  \|__|\|__|\|__|\|__|\|__| \|__/__/ /\ __\ 
-                                            |__|/ \|__|  
+[root@thanhdev ~]# cowsay "Xin chào, thế giới code!"
+ _____________________________
+< Xin chào, thế giới code! >
+ -----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-[System] Terminal khởi động hoàn tất. Kết nối với ThanhBot thành công!
+[root@thanhdev ~]# ./welcome.sh
+  
+  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
+  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║  ██║
+     ██║   ███████║███████║██╔██╗ ██║███████║
+     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║
+     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║
+     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+                                      
+[System] 🚀 Terminal khởi động hoàn tất. Kết nối với ThanhBot v3.5 thành công!
+[System] 🔐 Bảo mật: Mạnh | 🔌 Kết nối: Ổn định | 🔋 Pin: 98% | 📶 WiFi: 5G
 
-thanh@dev:~$ whoami
-Trần Đình Thành
-🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 📱 Mobile Developer | 🔧 Clean Code Lover
+thanh@dev:~$ neofetch
+                    .-/+oossssoo+/-.               thanh@dev
+                `:+ssssssssssssssssss+:`           -----------
+              -+ssssssssssssssssssyyssss+-         OS: Thanh-OS 3.14159 x86_64
+            .ossssssssssssssssssdMMMNysssso.       Host: CodeMaster Pro X
+           /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.5.0-codeart
+          +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 19 years, 3 months
+         /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1024 (frontend)
+        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: code-bash 5.1.16
+        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   DE: ReactJS 18
+        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Redux
+        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme: Radical-Dark
+        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Terminal: thanh-term
+        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   CPU: CodeGen i9-12900K
+         /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    GPU: RTX 4090 Ti Developer
+          +sssssssssdmydMMMMMMMMddddyssssssss+     Memory: 32GB RAM
+           /ssssssssssshdmNNNNmyNMMMMhssssss/
+            .ossssssssssssssssssdMMMNysssso.
+              -+sssssssssssssssssyyyssss+-
+                `:+ssssssssssssssssss+:`
+                    .-/+oossssoo+/-.
 
-thanh@dev:~$ cat profile.json
+thanh@dev:~$ echo $MOTD
+💡 "Đừng lo về việc mọi người nghĩ gì. Họ không làm vậy đâu." - Walter White (Breaking Bad)
+
+thanh@dev:~$ whoami --detail
+👤 Trần Đình Thành | 🎓 IT Student | 🌏 Vietnam
+
+🚀 Frontend Developer  | 🔥 Expertise: ⭐⭐⭐⭐⭐
+🎨 UI/UX Enthusiast    | 🔥 Expertise: ⭐⭐⭐⭐☆
+📱 Mobile Developer    | 🔥 Expertise: ⭐⭐⭐☆☆
+🔧 Clean Code Lover    | 🔥 Expertise: ⭐⭐⭐⭐☆
+
+🏆 Achievements: 15 completed projects | 🔄 Commits: 1,337 | 🍴 Forks: 42
+
+thanh@dev:~$ cat profile.json | syntax-highlight
 {
   "name": "Trần Đình Thành",
   "age": 19,
@@ -60,36 +105,77 @@ thanh@dev:~$ cat profile.json
   "languages": ["Vietnamese", "English"],
   "interests": ["Web Development", "UI/UX Design", "Mobile Apps"],
   "currentProject": "KTT Store (React)",
-  "learning": ["React", "Node.js", "Flutter", "UI/UX"]
+  "learning": ["React", "Node.js", "Flutter", "UI/UX"],
+  "favoriteEditor": "VS Code",
+  "favoriteMeme": "It works on my machine",
+  "coffeePerDay": "Vô hạn",
+  "debugMethod": "Console.log everywhere"
 }
 
-thanh@dev:~$ ls -la ./skills/
-./skills:
-drwxr-xr-x  5 thanh dev  4096 Jun 20 2024 programming-languages/
-drwxr-xr-x  3 thanh dev  4096 Jun 20 2024 frameworks/
-drwxr-xr-x  2 thanh dev  4096 Jun 20 2024 databases/
-drwxr-xr-x  1 thanh dev  4096 Jun 20 2024 design-tools/
-drwxr-xr-x  4 thanh dev  4096 Jun 20 2024 dev-tools/
+thanh@dev:~$ ls -la ./skills/ --color=always
+📂 ./skills:
+drwxr-xr-x  5 thanh dev  4096 Jun 20 2024 🟡 programming-languages/
+drwxr-xr-x  3 thanh dev  4096 Jun 20 2024 🟢 frameworks/
+drwxr-xr-x  2 thanh dev  4096 Jun 20 2024 🔵 databases/
+drwxr-xr-x  1 thanh dev  4096 Jun 20 2024 🟣 design-tools/
+drwxr-xr-x  4 thanh dev  4096 Jun 20 2024 ⚪ dev-tools/
 
-thanh@dev:~$ show --skills-progress
-Frontend     [████████████████████-----] 85%
-Backend      [████████████████---------] 70%
-Mobile       [█████████████------------] 65%
-UI/UX        [█████████████████-------] 80%
-Database     [███████████████----------] 75%
+thanh@dev:~$ cd ./skills/programming-languages && ls -la
+📂 ./skills/programming-languages:
+-rwxr-xr-x  1 thanh dev  8.5M Jun 20 2024 ⭐ javascript.js
+-rwxr-xr-x  1 thanh dev  7.8M Jun 20 2024 ⭐ html.html
+-rwxr-xr-x  1 thanh dev  6.2M Jun 20 2024 ⭐ css.css
+-rwxr-xr-x  1 thanh dev  5.4M Jun 20 2024 ⭐ java.java
+-rwxr-xr-x  1 thanh dev  4.7M Jun 20 2024 ⭐ csharp.cs
+-rwxr-xr-x  1 thanh dev  3.9M Jun 20 2024 ⭐ php.php
+-rwxr-xr-x  1 thanh dev  2.5M Jun 20 2024 ⭐ dart.dart
 
-thanh@dev:~$ list --projects
-KTT Store Android  - Ứng dụng thương mại điện tử Android   - Github: https://github.com/WiniFyCode/KTTStore-Android
-KTT Store React    - Web thương mại điện tử                - Github: https://github.com/WiniFyCode/KTTStore-React | Demo: https://ktt-store-fe-ppa4.vercel.app/
-KTT Store Flutter  - Ứng dụng đa nền tảng                 - Github: https://github.com/WiniFyCode/KTTStore-Flutter
+thanh@dev:~$ skill-stats --graph
+📊 SKILL PROGRESS VISUALIZATION:
 
-thanh@dev:~$ contact
-LinkedIn: https://www.linkedin.com/in/tranthanh23102005/
-Facebook: https://www.facebook.com/tt230510/
-Email:    tranthanh23102005@gmail.com
-GitHub:   https://github.com/WiniFyCode
+Frontend     [🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜] 85%
+Backend      [🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜] 70% 
+Mobile       [🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜] 65%
+UI/UX        [🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜] 80%
+Database     [🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜] 75%
 
-thanh@dev:~$ _
+thanh@dev:~$ projects --list --format=table
+┌────────────────────┬────────────────────────────────────┬───────────────────────────────────────────────────────────┐
+│ 🔥 PROJECT NAME    │ 📋 DESCRIPTION                     │ 🔗 LINKS                                                  │
+├────────────────────┼────────────────────────────────────┼───────────────────────────────────────────────────────────┤
+│ KTT Store Android  │ Ứng dụng thương mại điện tử Android│ 🔗 https://github.com/WiniFyCode/KTTStore-Android        │
+├────────────────────┼────────────────────────────────────┼───────────────────────────────────────────────────────────┤
+│ KTT Store React    │ Web thương mại điện tử             │ 🔗 https://github.com/WiniFyCode/KTTStore-React          │
+│                    │                                    │ 🌐 https://ktt-store-fe-ppa4.vercel.app/                  │
+├────────────────────┼────────────────────────────────────┼───────────────────────────────────────────────────────────┤
+│ KTT Store Flutter  │ Ứng dụng đa nền tảng               │ 🔗 https://github.com/WiniFyCode/KTTStore-Flutter        │
+└────────────────────┴────────────────────────────────────┴───────────────────────────────────────────────────────────┘
+
+thanh@dev:~$ fortune | cowsay
+ _________________________________________
+/ Gõ đúng từ "console", đừng gõ "consle". \
+\ Lỗi đó sẽ hủy hoại cả ngày của bạn.     /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+thanh@dev:~$ contact --all
+📞 CONTACT INFORMATION:
+┌─────────────┬──────────────────────────────────────────┐
+│ LinkedIn    │ https://www.linkedin.com/in/tranthanh23  │
+│ Facebook    │ https://www.facebook.com/tt230510/       │
+│ Email       │ tranthanh23102005@gmail.com              │
+│ GitHub      │ https://github.com/WiniFyCode            │
+└─────────────┴──────────────────────────────────────────┘
+
+thanh@dev:~$ echo "Cảm ơn bạn đã ghé thăm profile của tôi!" | lolcat
+🌈 Cảm ơn bạn đã ghé thăm profile của tôi! 🌈
+
+thanh@dev:~$ exit
+[System] 👋 Tạm biệt! Hẹn gặp lại ở project tiếp theo!
 ```
 
 <!-- ABOUT ME SECTION -->
@@ -97,7 +183,7 @@ thanh@dev:~$ _
 <h2 align="center">🌟 VỀ TÔI 🌟</h2>
 
 <p align="center">
-  <img width="170" height="170" src="https://avatars.githubusercontent.com/u/tranthanh23102005" style="border-radius: 50%; border: 2px solid #F75C7E;" />
+  <img width="170" height="170" src="https://avatars.githubusercontent.com/u/166890917?s=400&u=8265f9db1d717732cc50c0a22736af27d5221633&v=4" style="border-radius: 50%; border: 2px solid #F75C7E;" />
 </p>
 
 <div align="center">
