@@ -239,47 +239,6 @@ thanh@dev:~$ exit --with-animation
 [System] Phiên làm việc kết thúc trong 3.14159s.
 ```
 
-<!-- SKILLS SECTION -->
-<a name="skills"></a>
-<h2 align="center">🛠️ CÁC KỸ NĂNG 🛠️</h2>
-
-<br />
-
-<div align="center">
-  <h3>👨‍💻 NGÔN NGỮ LẬP TRÌNH</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,cs,php,dart,react,nodejs,express,flutter,tailwind,mongodb,mysql,figma,git&theme=dark&perline=8" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>📚 FRAMEWORKS & LIBRARIES</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind&theme=dark&perline=5" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>🗄️ DATABASES</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark&perline=4" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>🎨 DESIGN TOOLS</h3>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>⚙️ OTHER TOOLS</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,unity&theme=dark&perline=5" />
-</div>
-
-<br />
-
 <!-- PROJECTS SECTION -->
 <a name="projects"></a>
 <h2 align="center">🚀 DỰ ÁN NỔI BẬT 🚀</h2>
@@ -336,68 +295,6 @@ thanh@dev:~$ exit --with-animation
 
 <br />
 
-<!-- GITHUB STATS SECTION -->
-<a name="stats"></a>
-<h2 align="center">📊 GITHUB STATS 📊</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="500" src="https://github-readme-stats.vercel.app/api?username=winifycode&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=winifycode&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winifycode&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winifycode&theme=radical" alt="GitHub Profile Summary" />
-</div>
-
-<br />
-
-<!-- TESTIMONIALS SECTION -->
-<div align="center">
-  <h3>💬 PHẢN HỒI 💬</h3>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Mentor-Review-blueviolet?style=for-the-badge&logo=acclaim&logoColor=white" />
-      </td>
-      <td>
-        <i>"Thành là một người học hỏi nhanh và luôn tìm tòi giải pháp sáng tạo cho mọi vấn đề."</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Team-Review-ff69b4?style=for-the-badge&logo=acclaim&logoColor=white" />
-      </td>
-      <td>
-        <i>"Làm việc với Thành là một trải nghiệm tuyệt vời. Anh ấy luôn đúng hẹn và mang đến những giải pháp chất lượng."</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<!-- CONTACT SECTION -->
-<a name="contact"></a>
-<h2 align="center">📫 KẾT NỐI VỚI TÔI 📫</h2>
-
-<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tranthanh23102005/" target="_blank">
@@ -406,19 +303,12 @@ thanh@dev:~$ exit --with-animation
   <a href="https://www.facebook.com/tt230510/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:tranthanh23102005@gmail.com">
+  <a href="mailto:thanh23102005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/WiniFyCode" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<br />
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tranthanh23102005&color=blueviolet&style=for-the-badge&label=VISITOR+COUNT" alt="profile views" />
 </div>
 
 <br />
@@ -431,5 +321,5 @@ thanh@dev:~$ exit --with-animation
 <div align="center">
   <strong><i>"Học không ngừng, sáng tạo không giới hạn"</i></strong>
   <br />
-  <small>Cập nhật: Ngày 03, Tháng 03, 2025</small>
+  <small>Cập nhật: Ngày 16, Tháng 09, 2025</small>
 </div>
