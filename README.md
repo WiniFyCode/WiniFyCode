@@ -239,66 +239,6 @@ thanh@dev:~$ exit --with-animation
 [System] Phiên làm việc kết thúc trong 3.14159s.
 ```
 
-<!-- ABOUT ME SECTION -->
-<a name="about"></a>
-<h2 align="center">🌟 VỀ TÔI 🌟</h2>
-
-<p align="center">
-  <img width="170" height="170" src="https://avatars.githubusercontent.com/u/166890917?s=400&u=8265f9db1d717732cc50c0a22736af27d5221633&v=4" style="border-radius: 50%; border: 2px solid #F75C7E;" />
-</p>
-
-<div align="center">
-  <strong><i>"Biến ý tưởng thành hiện thực với mã nguồn tối ưu và giao diện xuất sắc"</i></strong>
-</div>
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-    </td>
-    <td>
-      Xin chào! Tôi là <b>Trần Đình Thành</b>, một sinh viên IT đam mê với lĩnh vực phát triển web. Tôi thích biến những thiết kế UI/UX phức tạp thành code sạch và hiệu quả, tạo ra những trải nghiệm người dùng tuyệt vời.
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🎓</td>
-      <td>Sinh viên năm nhất ngành Công nghệ thông tin</td>
-    </tr>
-    <tr>
-      <td align="center">🌱</td>
-      <td>Đang học và phát triển các kỹ năng về Front-end và Back-end</td>
-    </tr>
-    <tr>
-      <td align="center">🔭</td>
-      <td>Hiện đang làm việc trên <a href="https://ktt-store-fe-ppa4.vercel.app/">KTT Store (REACT)</a></td>
-    </tr>
-    <tr>
-      <td align="center">💬</td>
-      <td>Hãy trò chuyện với tôi về <b>React, UI/UX, Web Design</b></td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<!-- JOURNEY SECTION -->
-<div align="center">
-  <h3>🚀 HÀNH TRÌNH HỌC TẬP 🚀</h3>
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=winifycode&row=1&column=6&theme=radical&margin-w=15&margin-h=15" alt="Thành tựu" />
-  </div>
-</div>
-
-<br />
-
 <!-- SKILLS SECTION -->
 <a name="skills"></a>
 <h2 align="center">🛠️ CÁC KỸ NĂNG 🛠️</h2>
