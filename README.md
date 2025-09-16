@@ -116,7 +116,7 @@ thanh@dev:~$ cat profile.json | syntax-highlight
 
 {
   "name": "Trần Đình Thành",
-  "age": 19,
+  "age": 20,
   "location": "Vietnam",
   "education": "IT Student - Second Year",
   "languages": ["Vietnamese", "English"],
