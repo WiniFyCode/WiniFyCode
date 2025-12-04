@@ -216,8 +216,7 @@ thanh@dev:~$ contact --all --animation=true
 📞 CONTACT INFORMATION:
 ┌─────────────┬──────────────────────────────────────────┐
 │ LinkedIn    │ https://www.linkedin.com/in/tranthanh23  │
-│ Facebook    │ https://www.facebook.com/tt230510/       │
-│ Email       │ thanh23102005@gmail.com                  │
+│ Email       │ winify.23@gmail.com                      │
 │ GitHub      │ https://github.com/WiniFyCode            │
 └─────────────┴──────────────────────────────────────────┘
 
@@ -297,15 +296,6 @@ thanh@dev:~$ exit --with-animation
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tranthanh23102005/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/tt230510/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:thanh23102005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://github.com/WiniFyCode" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
