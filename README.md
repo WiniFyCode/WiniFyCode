@@ -10,7 +10,7 @@
 
 <!-- BADGES -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Age-19-blue?style=for-the-badge&labelColor=1a1b27&color=70a4fc" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge&labelColor=1a1b27&color=70a4fc" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Web_Development-brightgreen?style=for-the-badge&labelColor=1a1b27&color=bf91f3" /></a>
   <a href="#"><img src="https://img.shields.io/badge/From-Vietnam-success?style=for-the-badge&labelColor=1a1b27&color=38bdae" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Languages-Vietnamese_&_English-orange?style=for-the-badge&labelColor=1a1b27&color=fd7534" /></a>
@@ -311,5 +311,5 @@ thanh@dev:~$ exit --with-animation
 <div align="center">
   <strong><i>"Học không ngừng, sáng tạo không giới hạn"</i></strong>
   <br />
-  <small>Cập nhật: Ngày 16, Tháng 09, 2025</small>
+  <small>Cập nhật: Ngày 06, Tháng 04, 2026</small>
 </div>
