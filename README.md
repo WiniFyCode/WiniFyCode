@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Trần%20Đình%20Thành&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TRAN%20DINH%20THANH&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
 </div>
 
 <!-- TYPING SVG -->
@@ -23,10 +23,4 @@
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <strong><i>"Học không ngừng, sáng tạo không giới hạn"</i></strong>
-  <br />
-  <small>Cập nhật: Ngày 06, Tháng 04, 2026</small>
 </div>
